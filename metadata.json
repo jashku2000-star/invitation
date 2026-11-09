@@ -1,0 +1,6 @@
+{
+  "name": "Мундуз & Жазгүл — Үйлөнүү тоюна чакыруу",
+  "description": "Мундуз менен Жазгүлдүн үйлөнүү тоюна арналган эксклюзивдүү люкс электрондук чакыруу баракчасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
